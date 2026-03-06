@@ -1,0 +1,25 @@
+echo "Hello World!"
+echo input.txt
+echo
+echo <hello.txt >out.txt
+echo <hello.txt >>out.txt
+prompt "?"
+prompt "#"
+time
+date
+touch tout.txt
+touch tout.txt
+echo <hello.txt >empty.txt
+truncate empty.txt
+touch temp.txt
+rm temp.txt
+wc -w input.txt
+wc -c
+wc -w
+tr -" "
+tr input.txt -"execut" "E"
+head -n1
+batch basic_commands.txt
+batch red_commands.txt >batchout.txt
+batch cmd_commands.txt
+echo "I love programming in C!"  | tr -"C" "C++" | wc -c
